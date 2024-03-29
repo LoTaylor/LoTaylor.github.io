@@ -36,7 +36,7 @@ async function showc ()
     opts =
     {
         targets: [c2,],
-        rotate: {value:60,duration:3000,},
+        rotate: {value:60,duration:3000,}, 
     };
     anime(opts);
 
